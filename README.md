@@ -3,7 +3,8 @@ Decision Analysis (決策分析)?
 
 Definition: A systematic process for making choices among alternatives. Example: Choosing the best supplier based on cost, quality, and delivery time.
 
-image
+![image](https://github.com/user-attachments/assets/093593b7-156b-40db-812d-fa5ae8fa4429)
+
 
 Image Prompt 1: Abstract Conceptual Representation of Decision Analysis in AI "A visually striking conceptual image depicting an AI-driven decision analysis process using Python. A large glowing decision tree with interconnected nodes extends across the image, symbolizing structured decision-making. Python script elements float around the tree, seamlessly blending with statistical graphs and predictive models. Streams of data, in the form of bright neon circuits, flow through the tree, illustrating the integration of Python-powered algorithms. The background is dark with a subtle blue gradient, providing a modern, high-tech aesthetic. The composition is sleek and futuristic, representing the fusion of artificial intelligence, analytics, and Python-based decision modeling."
 
